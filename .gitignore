@@ -1,5 +1,13 @@
-*.dmb
-*.rsc
-*.int
-*.lk
-*.zip
+# Ar_ System
+.DS_Store
+Thumbs.db
+
+# Ar_Config
+node_modules/
+dist/
+.env
+
+# Ar_Temp
+*.log
+*.cache
+*.bak
