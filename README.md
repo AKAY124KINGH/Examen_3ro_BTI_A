@@ -1,4 +1,5 @@
 # BY: Akay124Kingh
+[![Picture](https://yt3.ggpht.com/ytc/AKedOLQJ...)](https://www.youtube.com/@AKAY124KINGH)  
 [![YouTube](https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@AKAY124KINGH)
 # Paginas-Examen_3ro
 Este repositorio se ha creado con el propósito de alojar una página web que contiene la materia y actividades escolares correspondientes a las asignaturas [Programacion & Base de Datos ,Sistemas Operativos y Redes]. Su objetivo es facilitar el acceso y organización de los contenidos para un mejor aprendizaje y referencia.
