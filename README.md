@@ -1,6 +1,6 @@
 # BY: Akay124Kingh
 # Paginas-Examen_3ro
-Este repositorio se ha creado con el propósito de alojar una página web que contiene la materia y actividades escolares correspondientes a las asignaturas [n1, n2, n3]. Su objetivo es facilitar el acceso y organización de los contenidos para un mejor aprendizaje y referencia.
+Este repositorio se ha creado con el propósito de alojar una página web que contiene la materia y actividades escolares correspondientes a las asignaturas [Programacion & Base de Datos ,Sistemas Operativos y Redes]. Su objetivo es facilitar el acceso y organización de los contenidos para un mejor aprendizaje y referencia.
 # Detalles
 
 Este repositorio está diseñado para alojar una página web con contenido relacionado a actividades escolares. La estructura del proyecto incluye los siguientes elementos:
