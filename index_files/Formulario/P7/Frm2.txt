@@ -1,0 +1,32 @@
+Private Sub INGRESAR1_Click()
+Form2.Show
+End Sub
+
+Private Sub SALIR1_Click()
+Unload Form2
+End Sub
+
+
+Private Sub INGRESAR2_Click()
+Form3.Show
+End Sub
+
+Private Sub SALIR2_Click()
+Unload Form3
+End Sub
+
+Private Sub INGRESAR3_Click()
+Form4.Show
+End Sub
+
+Private Sub SALIR3_Click()
+Unload Form4
+End Sub
+
+Private Sub SALIR_Click()
+If MsgBox("Desea salir del programa?", vbQuestion + vbYesNo, "salir") = vbYes Then
+End                 'by: AKAY124KINGH
+Else
+MsgBox "Si claro aja", vbCritical + vbOKOnly, "Ujum!"
+End If
+End Sub

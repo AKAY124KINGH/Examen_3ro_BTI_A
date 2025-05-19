@@ -1,0 +1,19 @@
+Private Sub NUEVO_Click()
+Adodc1.Recordset.AddNew
+End Sub
+
+Private Sub ELIMINAR_Click()
+Adodc1.Recordset.AddNew.Delete.Update
+End Sub
+
+Private Sub GUARDAR_Click()
+Adodc1.Recordset.Update
+End Sub
+
+Private Sub SALIR_Click()
+If MsgBox("Desea salir del programa?", vbQuestion + vbYesNo, "salir") = vbYes Then
+End                 'by: AKAY124KINGH
+Else
+MsgBox "Si claro aja", vbCritical + vbOKOnly, "Ujum!"
+End If
+End Sub
