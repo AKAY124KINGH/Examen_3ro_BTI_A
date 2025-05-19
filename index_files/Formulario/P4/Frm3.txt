@@ -1,0 +1,56 @@
+Private Sub INGRESO_Click()
+Form1.Show
+Unload Me
+End Sub
+
+Private Sub LIMPIAR_Click()
+Text1.Text = ""
+Text2.Text = ""
+Text3.Text = ""
+Text4.Text = ""
+Text5.Text = ""
+End Sub
+
+Private Sub NOTAS_Click()
+Form2.Show
+Unload Me
+End Sub
+
+Private Sub Option1_Click()
+Dim L1 As Double
+Dim L2 As Double
+Dim L3 As Double
+Dim L4 As Double
+Dim R As Double
+
+L1 = Val(Text1.Text)
+L2 = Val(Text2.Text)
+L3 = Val(Text3.Text)
+L4 = Val(Text4.Text)
+
+R = L1 * L2
+Text5.Text = "El Area es: " & R
+
+End Sub
+
+Private Sub Option2_Click()
+Dim L1 As Double
+Dim L2 As Double
+Dim L3 As Double
+Dim L4 As Double
+Dim R As Double
+
+L1 = Val(Text1.Text)
+L2 = Val(Text2.Text)
+L3 = Val(Text3.Text)
+L4 = Val(Text4.Text)
+
+R = L1 + L2 + L3 + L4
+Text5.Text = "El Perimetro es: " & R
+End Sub
+
+Private Sub SALIR_Click()
+If MsgBox("Desea salir del programa?", vbQuestion + vbYesNo, "salir") = vbYes Then
+End
+End If
+End Sub
